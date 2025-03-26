@@ -35,11 +35,3 @@ The chatbot is designed to provide quick and accurate responses to user queries 
 2. **Configure AWS Bedrock**: Set up the knowledge base with relevant company information and documents.
 3. **Store Documents in AWS S3**: Upload company documents to S3 and configure access permissions.
 4. **Integrate Services**: Connect Lex, Bedrock, and S3 to enable seamless interaction and information retrieval.
-
-## Contributing
-
-Feel free to fork this repository and contribute by submitting a pull request. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the MIT License.
